@@ -1,1 +1,1 @@
-struct Foo(           u32 );
+struct Foo(u32);
